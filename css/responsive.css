@@ -1,6 +1,6 @@
 
 
-/* Screens Resolution : 992px
+/* Screens Resolution : 1200px
 -------------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
 	
@@ -10,16 +10,24 @@
 -------------------------------------------------------------------------- */
 @media only screen and (max-width: 992px) {
 
-	
 
 
-	
 	/* ---------------------------------
 	7. EDUCATION SECTION
 	--------------------------------- */
-	
+
 	.education-wrapper:after,
 	.education-wrapper .education:after{ display: none; }
+}
+
+/* Screens Resolution : 991px
+-------------------------------------------------------------------------- */
+@media only screen and (max-width: 991px) {
+
+	.tech-border-left {
+		border-left: none;
+	}
+
 }
 
 /* Screens Resolution : 767px
