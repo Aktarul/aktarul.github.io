@@ -155,12 +155,12 @@ b.max-bold{ font-weight: 700; }
 }
 
 .tech-border-left {
-	border-left: 3px solid white;
+	border-left: 1px solid rgb(0,158,214);
 	float: right;
 }
 
 .border-bottom-5 {
-	border-bottom: 5px solid white;
+	border-bottom: 1px solid rgb(0,158,214);
 }
 
 .margin-b-5 {
